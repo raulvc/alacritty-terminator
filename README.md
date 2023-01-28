@@ -13,7 +13,7 @@ What I use:
 - renaming window title dynamically (though you'll need bash/zsh to do it for you, this only presents it)
 
 ## Config file locations
-
+| app       |                                          |
 |-----------|------------------------------------------|
 | alacritty | ~/alacritty.yml, ~/.config/alacritty.yml |
 | tmux      | ~/.tmux.config                           |
