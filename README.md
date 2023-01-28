@@ -1,9 +1,9 @@
 # alacritty (and tmux) with terminator shortcuts
 
-For terminator users to migrate over to alacritty, which overperforms a billion times in comparison but has no pane splitting therefore we're using tmux.
+For terminator users to migrate over to alacritty, which overperforms a billion times in comparison but has no pane splitting, therefore, we're using tmux.
 
 
-Biggest motivation for this being tmux's default bindings are *bad*, like: [`ctrl + b` + `%`], [`ctrl + b` + `"`].
+Biggest motivation for this being tmux's default bindings which are *b a d*, like: [`ctrl + b` + `%`], [`ctrl + b` + `"`].
 
 
 What I use:
